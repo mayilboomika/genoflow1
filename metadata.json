@@ -1,0 +1,5 @@
+{
+  "name": "GenoFlow: Clinical Pedigree Studio",
+  "description": "An advanced web-based tool for creating, visualizing, and validating genetic pedigree charts. GenoFlow supports various inheritance patterns and includes a real-time validation engine to detect genetic and structural inconsistencies, aiding genetic counselors and researchers.",
+  "requestFramePermissions": []
+}
